@@ -1,0 +1,12 @@
+openai
+anthropic
+httpx
+pydub
+pystray
+Pillow
+sounddevice
+soundfile
+numpy
+pyaudio
+speechrecognition
+tk
